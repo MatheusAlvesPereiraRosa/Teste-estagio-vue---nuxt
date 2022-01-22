@@ -1,0 +1,53 @@
+body {
+    background-color: #c2b280;
+}
+
+.container-jogo {
+    background-color: white;
+    margin: 80px auto;
+    padding: 30px;
+    width: 800px;
+    border-radius: 20px;
+}
+
+.opcoes {
+    text-align: center;
+}
+
+.opcao {
+    justify-content: center;
+    margin: 20px;
+    width: 60%;
+    height: 40px;
+    background-color: #da9100;
+    color: aliceblue;
+    border: none;
+    border-radius: 20px;
+}
+
+.avancar {
+    justify-content: center;
+    margin: 20px;
+    width: 60%;
+    height: 40px;
+    background-color: green;
+    color: aliceblue;
+    border: none;
+    border-radius: 20px;
+}
+
+.sair {
+    justify-content: center;
+    margin: 20px;
+    width: 60%;
+    height: 40px;
+    background-color: red;
+    color: aliceblue;
+    border: none;
+    border-radius: 20px;
+}
+
+.icon {
+    height: 70px;
+    margin-bottom: 10px;
+}
