@@ -8,6 +8,7 @@ body {
     padding: 30px;
     width: 800px;
     border-radius: 20px;
+    box-shadow: 20px 20px 5px #808080;
 }
 
 .opcoes {
